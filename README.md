@@ -28,40 +28,20 @@ https://megzneko.itch.io/a-chance-exists
 
 ---
 
-About the Project
+# About the Project
+
 This project was our submission for a varsity project wherein we discuss and bring awareness to serious issues found in South Africa. The main issue our game will address is safety in rural communities. Some of the safety concerns that our game will focus on include, theft of personal property, street robbery, psychological violence, assault, and sexual offences. According to StatsSA (2023) these are the crimes that individuals face daily living in South Africa.
 
-Meet the Team
+# Meet the Team
+
 Jared Clark
 Waldin Botha
 Megan Vorster
 Rei van der Walt
 Luca Grop
-Team Roles & Credits
- Art & Design
- Megan Vorster - 2D Artist, UI Artist, Game Designer
- Jared Clark - 3D Artist
- Rei van der Walt - 3D Character Designer
- Development 
-Waldin Botha - Developer
-User Interface
-Jared Clark - UI Designer
- Extra:  Non-Group Members
+
+Extra:  Non-Group Members
 Thabiso Fatane - Voice Actor
-Find More of Our Work
-Jared Clark
-Itch.io
-Portfolio
-Waldin Botha
-Itch.io
-Links
-Megan Vorster
-Itch.io
-Vgen
-Instagram
-Rei van der Walt
-Itch.io
-Instagram
-Portfolio Website
+
 
 ---
