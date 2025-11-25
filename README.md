@@ -65,11 +65,3 @@ Instagram
 Portfolio Website
 
 ---
-
-Find the Game Build here:
-
----
-
-Find the Game on itch.io here:
-
----
